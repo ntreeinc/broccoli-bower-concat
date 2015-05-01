@@ -1,0 +1,19 @@
+{
+  "name": "broccoli-bower-concat",
+  "version": "1.0.0",
+  "description": "A broccoli plugin that finds and concatenates (in the correct order) all the bower dependencies with the specified extension.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntreeinc/broccoli-bower-concat.git"
+  },
+  "author": "Ramanpreet Nara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ntreeinc/broccoli-bower-concat/issues"
+  },
+  "homepage": "https://github.com/ntreeinc/broccoli-bower-concat#readme"
+}
