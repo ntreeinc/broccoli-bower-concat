@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ntreeinc/broccoli-bower-concat/issues"
   },
-  "homepage": "https://github.com/ntreeinc/broccoli-bower-concat#readme"
+  "homepage": "https://github.com/ntreeinc/broccoli-bower-concat#readme",
+  "dependencies": {
+    "broccoli-caching-writer": "^0.5.5",
+    "main-bower-files": "^2.7.0"
+  }
 }
