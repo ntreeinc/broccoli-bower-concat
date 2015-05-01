@@ -1,6 +1,6 @@
 {
   "name": "broccoli-bower-concat",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A broccoli plugin that finds and concatenates (in the correct order) all the bower dependencies with the specified extension.",
   "main": "index.js",
   "scripts": {
